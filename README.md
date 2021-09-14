@@ -16,7 +16,7 @@
 
 ----
 # О нас
-1. [Ославская Лидия]()
+1. [Ославская Лидия](https://github.com/VishLi777)
 2. [Субботин Евгений](https://github.com/iesub)
 3. [Рогов Дмитрий](https://github.com/drv2vna)
 4. [Витухина наталья](https://github.com/IAmMum-sAsh)
