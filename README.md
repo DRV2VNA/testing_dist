@@ -1,4 +1,4 @@
-# Команда <имя команды>
+# Команда BugModeller
 ---
 
 # _Тестирование AllFusion Process Modeller r7_ ![bugs](https://img.shields.io/badge/%D0%9A%D0%BE%D0%BB--%D0%B2%D0%BE%20%D0%B1%D0%B0%D0%B3%D0%BE%D0%B2-6-red)
